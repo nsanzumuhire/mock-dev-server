@@ -1,0 +1,15 @@
+{
+    "status":true,
+    "message":"User Activated Successfully",
+    "data": {
+        "guid": "c6113a18-8cf2-4fb2-9b16-6bebfgtafefc",
+        "entityId": "c6113a18-8cf2-4fb2-9b16-6bebfd7afefc",
+        "displayName": "Danny Kush",
+        "username": "0784226800",
+        "nationalId": "1111111111111111",
+        "nationality": "Rwanda",
+        "creationDate": "2019-01-01 00:00:00",
+        "status": "ACTIVE",
+        "active": true
+    }
+}
