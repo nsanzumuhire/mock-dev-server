@@ -1,4 +1,5 @@
 {
+   "dates":{
     "status":true,
     "message":"User Activated Successfully",
     "data": {
@@ -12,4 +13,5 @@
         "status": "ACTIVE",
         "active": true
     }
+   }
 }
