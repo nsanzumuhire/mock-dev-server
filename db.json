@@ -1,124 +1,109 @@
 {
-   "available-dates-1":{
-    "status":true,
-    "message":"Available Dates found",
+  "available-dates-1": {
+    "status": true,
+    "message": "Available Dates found",
     "data": {
-        "dates": [
-            "2019-07-20T16:02:44.558",
-            "2019-08-20T16:02:44.558",
-            "2019-07-29T16:02:44.558",
-            "2019-08-1T16:02:44.558"
-        ] 
+      "dates": ["2019-07-20T16:02:44.558", "2019-08-20T16:02:44.558", "2019-07-29T16:02:44.558", "2019-08-1T16:02:44.558"]
     }
-   },
-   "available-dates-2":{
-    "status":true,
-    "message":"No Available Dates found",
+  },
+  "available-dates-2": {
+    "status": true,
+    "message": "No Available Dates found",
     "data": {
-        "dates": [
-        ] 
+      "dates": []
     }
-   },
-   "available-dates-3":{
-    "status":true,
-    "message":"Available Dates found",
+  },
+  "available-dates-3": {
+    "status": true,
+    "message": "Available Dates found",
     "data": {
-        "dates": [
-            "2019-07-20T16:02:44.558",
-            "2019-08-20T16:02:44.558"
-        ] 
+      "dates": ["2019-07-20T16:02:44.558", "2019-08-20T16:02:44.558"]
     }
-   },
-   "available-dates-4":{
-    "status":true,
-    "message":"Available Dates found",
+  },
+  "available-dates-4": {
+    "status": true,
+    "message": "Available Dates found",
     "data": {
-        "dates": [
-            "2019-07-20T16:02:44.558"
-        ] 
+      "dates": ["2019-07-20T16:02:44.558"]
     }
-   },
-   "available-dates-5":{
-    "status":true,
-    "message":"Available Dates found",
+  },
+  "available-dates-5": {
+    "status": true,
+    "message": "Available Dates found",
     "data": {
-        "dates": [
-            "2019-07-20T16:02:44.558",
-            "2019-08-20T16:02:44.558",
-            "2019-07-29T16:02:44.558",
-            "2019-08-1T16:02:44.558"
-        ] 
+      "dates": ["2019-07-20T16:02:44.558", "2019-08-20T16:02:44.558", "2019-07-29T16:02:44.558", "2019-08-1T16:02:44.558"]
     }
-   },
-   "company-media-houses":{
-    "status":true,
-    "message":"media houses found",
+  },
+  "company-media-houses": {
+    "status": true,
+    "message": "media houses found",
     "data": [
-        {
-          "guid": "2d4281aa-f931-43a1-8f6a-80f868dc419a",
-          "version": 1,
-          "state": "ACTIVE",
-          "code": "COMP_001",
-          "name": "City Radio",
-          "description": "City Radio",
-          "translation": null,
-          "active": true,
-          "new": false
-        },
-        {
-          "guid": "d064f377-b6de-41cf-9c6b-457154976a6d",
-          "version": 1,
-          "state": "ACTIVE",
-          "code": "COMP_002",
-          "name": "Igihe",
-          "description": "Igihe",
-          "translation": null,
-          "active": true,
-          "new": false
-        },
-        {
-          "guid": "7c3ac064-fc00-4bdb-86b6-ad2a7a12216d",
-          "version": 1,
-          "state": "ACTIVE",
-          "code": "COMP_003",
-          "name": "Newtimes Rwanda",
-          "description": "Newtimes Rwanda ",
-          "translation": null,
-          "active": true,
-          "new": false
-        },
-        {
-          "guid": "53b43642-7fc6-4330-8a49-21acf5e745fb",
-          "version": 1,
-          "state": "ACTIVE",
-          "code": "COMP_004",
-          "name": "BBC USA",
-          "description": "BBC USA",
-          "translation": null,
-          "active": true,
-          "new": false
-        },
-        {
-          "guid": "83ce7b5f-9136-491b-8b0e-65eeff9dce6a",
-          "version": 1,
-          "state": "ACTIVE",
-          "code": "PROF_005",
-          "name": "Agricultural Engineering",
-          "description": "Agricultural Engineering",
-          "translation": null,
-          "active": true,
-          "new": false
-        },
-        {
-          "guid": "12c30266-9427-46a1-a4dc-b29ce12d5e85",
-          "version": 1,
-          "state": "ACTIVE",
-          "code": "COMP_006",
-          "name": "ABC News",
-          "description": "ABC News",
-          "translation": null,
-          "active": true,
-          "new": false
-        }
-   }
+      {
+        "guid": "2d4281aa-f931-43a1-8f6a-80f868dc419a",
+        "version": 1,
+        "state": "ACTIVE",
+        "code": "COMP_001",
+        "name": "City Radio",
+        "description": "City Radio",
+        "translation": null,
+        "active": true,
+        "new": false
+      },
+      {
+        "guid": "d064f377-b6de-41cf-9c6b-457154976a6d",
+        "version": 1,
+        "state": "ACTIVE",
+        "code": "COMP_002",
+        "name": "Igihe",
+        "description": "Igihe",
+        "translation": null,
+        "active": true,
+        "new": false
+      },
+      {
+        "guid": "7c3ac064-fc00-4bdb-86b6-ad2a7a12216d",
+        "version": 1,
+        "state": "ACTIVE",
+        "code": "COMP_003",
+        "name": "Newtimes Rwanda",
+        "description": "Newtimes Rwanda ",
+        "translation": null,
+        "active": true,
+        "new": false
+      },
+      {
+        "guid": "53b43642-7fc6-4330-8a49-21acf5e745fb",
+        "version": 1,
+        "state": "ACTIVE",
+        "code": "COMP_004",
+        "name": "BBC USA",
+        "description": "BBC USA",
+        "translation": null,
+        "active": true,
+        "new": false
+      },
+      {
+        "guid": "83ce7b5f-9136-491b-8b0e-65eeff9dce6a",
+        "version": 1,
+        "state": "ACTIVE",
+        "code": "PROF_005",
+        "name": "Agricultural Engineering",
+        "description": "Agricultural Engineering",
+        "translation": null,
+        "active": true,
+        "new": false
+      },
+      {
+        "guid": "12c30266-9427-46a1-a4dc-b29ce12d5e85",
+        "version": 1,
+        "state": "ACTIVE",
+        "code": "COMP_006",
+        "name": "ABC News",
+        "description": "ABC News",
+        "translation": null,
+        "active": true,
+        "new": false
+      }
+    ]
+  }
 }
