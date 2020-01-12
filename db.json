@@ -13,20 +13,6 @@
       "dates": []
     }
   },
-  "available-dates-3": {
-    "status": true,
-    "message": "Available Dates found",
-    "data": {
-      "dates": ["2019-07-20T16:02:44.558", "2019-08-20T16:02:44.558"]
-    }
-  },
-  "available-dates-4": {
-    "status": true,
-    "message": "Available Dates found",
-    "data": {
-      "dates": ["2019-07-20T16:02:44.558"]
-    }
-  },
   "available-dates-5": {
     "status": true,
     "message": "Available Dates found",
