@@ -92,17 +92,6 @@
         "translation": null,
         "active": true,
         "new": false
-      },
-      {
-        "guid": "12c30266-9427-46a1-a4dc-b29ce12d5e85",
-        "version": 1,
-        "state": "ACTIVE",
-        "code": "COMP_006",
-        "name": "ABC News",
-        "description": "ABC News",
-        "translation": null,
-        "active": true,
-        "new": false
       }
     ]
   }
