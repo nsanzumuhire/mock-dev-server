@@ -39,7 +39,7 @@
       }
     ]
   },
-  "admin@gmail.com": {
+  "applications": {
     "status": true,
     "data": [
       {
@@ -80,7 +80,7 @@
       }
     ]
   },
-  "applications": {
+  "admin@gmail.com": {
     "status": true,
     "data": [
       {
