@@ -24,8 +24,9 @@
   },
   "examinar@gmail.com": {
     "status": true,
-    "data": [
+    "data": 
       {
+        "token": "token",
         "firstName": "Nsanzumuhire",
         "lastName": "Daniel",
         "email": "examinar@gmail.com",
@@ -37,7 +38,6 @@
             "EXAMINER"
         ]
       }
-    ]
   },
   "applications": {
     "status": true,
@@ -82,8 +82,9 @@
   },
   "admin@gmail.com": {
     "status": true,
-    "data": [
+    "data": 
       {
+        "token": "token",
         "firstName": "Nsanzumuhire",
         "lastName": "Daniel",
         "email": "admin@gmail.com",
@@ -95,6 +96,5 @@
             "ADMIN"
         ]
       }
-    ]
   }
 }
