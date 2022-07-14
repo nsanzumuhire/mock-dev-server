@@ -96,5 +96,31 @@
             "ADMIN"
         ]
       }
+  },
+  "users": {
+    "status": true,
+    "data": [
+      {
+        "names": "Daniel Nsanzumuhire",
+        "email": "admin@gmail.com",
+        "nationalId": "12 345678 A00",
+        "phoneNumber": "+263 (024) 2453788",
+        "status": "ACTIVE"
+      },
+      {
+        "names": "Iradukunda Alleluya",
+        "email": "alleluya@gmail.com",
+        "nationalId": "12 345678 A00",
+        "phoneNumber": "+263 (024) 2453788",
+        "status": "INACTIVE"
+      },
+      {
+        "names": "Flex Niyo",
+        "email": "flex@gmail.com",
+        "nationalId": "12 345678 A00",
+        "phoneNumber": "+263 (024) 2453788",
+        "status": "ACTIVE"
+      }
+    ]
   }
 }
