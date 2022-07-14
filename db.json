@@ -48,7 +48,7 @@
         "lastName": "Daniel",
         "deedId": "12 345678 A00",
         "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "PAYMENT_PENDING",
+        "paymentStatus": "PENDING",
         "status": "PENDING"
       },
       {
@@ -57,7 +57,7 @@
         "lastName": "Daniel",
         "deedId": "12 345678 A12",
         "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "PAYMENT_PENDING",
+        "paymentStatus": "PENDING",
         "status": "PENDING"
       },
       {
