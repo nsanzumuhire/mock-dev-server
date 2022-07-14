@@ -26,7 +26,7 @@
     "status": true,
     "data": 
       {
-        "token": "token",
+        "token": "token1",
         "firstName": "Nsanzumuhire",
         "lastName": "Daniel",
         "email": "examinar@gmail.com",
@@ -84,7 +84,7 @@
     "status": true,
     "data": 
       {
-        "token": "token",
+        "token": "token2",
         "firstName": "Nsanzumuhire",
         "lastName": "Daniel",
         "email": "admin@gmail.com",
