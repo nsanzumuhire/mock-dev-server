@@ -21,5 +21,80 @@
         "names": "Daniel Nsanzumuhire"
       }
     ]
+  },
+  "examinar@gmail.com": {
+    "status": true,
+    "data": [
+      {
+        "firstName": "Nsanzumuhire",
+        "lastName": "Daniel",
+        "email": "examinar@gmail.com",
+        "nationalId": "12 345678 A00",
+        "phoneNumber": "+263 (024) 2453788",
+        "address": "Harare, 12 St",
+        "gender": "MALE",
+        "role": [
+            "EXAMINER"
+        ]
+      }
+    ]
+  },
+  "admin@gmail.com": {
+    "status": true,
+    "data": [
+      {
+        "service": "Transfer by donation",
+        "ownerNames": "Daniel Nsanzumuhire",
+        "lastName": "Daniel",
+        "deedId": "12 345678 A00",
+        "phoneNumber": "+263 (024) 2453788",
+        "paymentStatus": "PENDING",
+        "status": "PENDING"
+      },
+      {
+        "service": "Transfer by succession",
+        "ownerNames": "Daniel Nsanzumuhire",
+        "lastName": "Daniel",
+        "deedId": "12 345678 A12",
+        "phoneNumber": "+263 (024) 2453788",
+        "paymentStatus": "PENDING",
+        "status": "PENDING"
+      },
+      {
+        "service": "Deed of Grant",
+        "ownerNames": "Daniel Nsanzumuhire",
+        "lastName": "Daniel",
+        "deedId": "12 345678 A12",
+        "phoneNumber": "+263 (024) 2453788",
+        "paymentStatus": "PAID",
+        "status": "PENDING"
+      },
+      {
+        "service": "Bonds registration",
+        "ownerNames": "Daniel Nsanzumuhire",
+        "lastName": "Daniel",
+        "deedId": "12 345678 A12",
+        "phoneNumber": "+263 (024) 2453788",
+        "paymentStatus": "PAID",
+        "status": "APPROVED"
+      }
+    ]
+  },
+  "applications": {
+    "status": true,
+    "data": [
+      {
+        "firstName": "Nsanzumuhire",
+        "lastName": "Daniel",
+        "email": "admin@gmail.com",
+        "nationalId": "12 345678 A00",
+        "phoneNumber": "+263 (024) 2453788",
+        "address": "Harare, 12 St",
+        "gender": "MALE",
+        "role": [
+            "ADMIN"
+        ]
+      }
+    ]
   }
 }
