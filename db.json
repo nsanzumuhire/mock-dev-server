@@ -43,6 +43,7 @@
     "status": true,
     "data": [
       {
+        "code": "DEED_TRANSFER_ORDINARY",
         "service": "Transfer by donation",
         "ownerNames": "Daniel Nsanzumuhire",
         "lastName": "Daniel",
@@ -52,6 +53,7 @@
         "status": "PENDING"
       },
       {
+        "code": "DEED_TRANSFER_ORDINARY",
         "service": "Transfer by succession",
         "ownerNames": "Daniel Nsanzumuhire",
         "lastName": "Daniel",
@@ -61,6 +63,7 @@
         "status": "PENDING"
       },
       {
+        "code": "DEED_OF_GRANT",
         "service": "Deed of Grant",
         "ownerNames": "Daniel Nsanzumuhire",
         "lastName": "Daniel",
@@ -70,6 +73,7 @@
         "status": "PENDING"
       },
       {
+        "code": "BONDS_REGISTRATION",
         "service": "Bonds registration",
         "ownerNames": "Daniel Nsanzumuhire",
         "lastName": "Daniel",
