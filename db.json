@@ -87,7 +87,7 @@
       }
     ]
   },
-  "admin@gmail.com": {
+  "conveyancer@gmail.com": {
     "status": true,
     "data": 
       {
@@ -100,7 +100,7 @@
         "address": "Harare, 12 St",
         "gender": "MALE",
         "role": [
-            "ADMIN"
+            "CONVEYANCER"
         ]
       }
   },
