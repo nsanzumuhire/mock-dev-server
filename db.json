@@ -62,7 +62,7 @@
         "lastName": "Daniel",
         "deedId": "12 345678 A12",
         "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "PENDING",
+        "paymentStatus": "REJECTED",
         "status": "PENDING"
       },
       {
