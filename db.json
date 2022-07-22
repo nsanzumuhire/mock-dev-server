@@ -63,7 +63,7 @@
         "deedId": "12 345678 A12",
         "phoneNumber": "+263 (024) 2453788",
         "paymentStatus": "PAID",
-        "status": "REJECTED"
+        "status": "APPROVED"
       },
       {
         "code": "DEED_OF_GRANT",
@@ -83,7 +83,7 @@
         "deedId": "12 345678 A12",
         "phoneNumber": "+263 (024) 2453788",
         "paymentStatus": "PAID",
-        "status": "APPROVED"
+        "status": "REJECTED"
       }
     ]
   },
