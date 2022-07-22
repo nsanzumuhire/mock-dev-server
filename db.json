@@ -62,8 +62,8 @@
         "lastName": "Daniel",
         "deedId": "12 345678 A12",
         "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "REJECTED",
-        "status": "PENDING"
+        "paymentStatus": "PAID",
+        "status": "REJECTED"
       },
       {
         "code": "DEED_OF_GRANT",
