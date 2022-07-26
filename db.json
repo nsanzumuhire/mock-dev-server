@@ -8,7 +8,11 @@
         "location": "Zimbabwe",
         "names": "Daniel Nsanzumuhire",
         "dateOfBirth": "1994-07-19T18:46:28.999Z",
-        "status": "CURRENT OWNER"
+        "status": "CURRENT OWNER",
+        "size": "35 square meters",
+        "purchaseValue": "$30,000",
+        "districtName": "Harare 12 ST",
+        "registrationDate": "200-07-19T18:46:28.999Z"
       },
       {
         "deedId": "12 345678 A23",
@@ -16,7 +20,11 @@
         "location": "Zimbabwe",
         "names": "Daniel Flex",
         "dateOfBirth": "1994-07-19T18:46:28.999Z",
-        "status": "CURRENT OWNER"
+        "status": "CURRENT OWNER",
+        "size": "345 square meters",
+        "purchaseValue": "$100,000",
+        "districtName": "Harare 56 ST",
+        "registrationDate": "200-07-19T18:46:28.999Z"
       },
       {
         "deedId": "65 345678 A23",
@@ -24,7 +32,11 @@
         "location": "Zimbabwe",
         "names": "Daniel Flex",
         "dateOfBirth": "1994-07-19T18:46:28.999Z",
-        "status": "CURRENT OWNER"
+        "status": "MORTAGAGED",
+        "size": "21 square meters",
+        "purchaseValue": "$12,000",
+        "districtName": "Harare 56 ST",
+        "registrationDate": "200-07-19T18:46:28.999Z"
       }
     ]
   },
