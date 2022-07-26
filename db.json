@@ -60,51 +60,68 @@
   "applications": {
     "status": true,
     "data": [
-      {
-        "refNumber": "REF4599",
-        "code": "DEED_TRANSFER_ORDINARY",
-        "service": "Transfer by donation",
-        "ownerNames": "Daniel Nsanzumuhire",
-        "lastName": "Daniel",
-        "deedId": "12 345678 A00",
-        "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "PENDING",
-        "status": "PENDING"
-      },
-      {
-        "refNumber": "REF4777",
-        "code": "DEED_TRANSFER_ORDINARY",
-        "service": "Transfer by succession",
-        "ownerNames": "Daniel Nsanzumuhire",
-        "lastName": "Daniel",
-        "deedId": "67 345678 A12",
-        "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "PAID",
-        "status": "APPROVED"
-      },
-      {
-        "refNumber": "REF4700",
-        "code": "DEED_OF_GRANT",
-        "service": "Deed of Grant",
-        "ownerNames": "Daniel Nsanzumuhire",
-        "lastName": "Daniel",
-        "deedId": "89 345678 A76",
-        "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "PAID",
-        "status": "PENDING"
-      },
-      {
-        "refNumber": "REF4702",
-        "code": "BONDS_REGISTRATION",
-        "service": "Bonds registration",
-        "ownerNames": "Daniel Nsanzumuhire",
-        "lastName": "Daniel",
-        "deedId": "56 345678 A12",
-        "phoneNumber": "+263 (024) 2453788",
-        "paymentStatus": "PAID",
-        "status": "REJECTED"
+   {
+      "code":"DEED_TRANSFER_ORDINARY",
+      "service":"Deed transfer - Ordinary",
+      "ownerNames":"Daniel Nsanzumuhire",
+      "lastName":"Daniel",
+      "deedId":"12 345678 A00",
+      "phoneNumber":"+263 (024) 2453788",
+      "paymentStatus":"PENDING",
+      "status":"PENDING",
+      "data":{
+         "processingOffice":"Harare",
+         "reason":"Sales",
+         "otherReason":"Other",
+         "transfereeFullName":"Daniel Nsanzumuhire",
+         "transfereeDoB":"19 Jul 2022",
+         "transfereeIdNumber":"123345345345344",
+         "phoneNumber":"078345556433",
+         "email":"conveyancer@gmail.com",
+         "address":"Harare ST 12"
       }
-    ]
+   },
+   {
+      "code":"DEED_TRANSFER_ORDINARY",
+      "service":"Deed transfer - Ordinary",
+      "ownerNames":"Daniel Nsanzumuhire",
+      "lastName":"Daniel",
+      "deedId":"67 345678 A12",
+      "phoneNumber":"+263 (024) 2453788",
+      "paymentStatus":"PAID",
+      "status":"APPROVED",
+      "data":{
+         "processingOffice":"Bulawayo",
+         "reason":"Donation",
+         "otherReason":"Other",
+         "transfereeFullName":"Daniel Nsanzumuhire",
+         "transfereeDoB":"19 Jul 2022",
+         "transfereeIdNumber":"123345345345344",
+         "phoneNumber":"078345556433",
+         "email":"conveyancer@gmail.com",
+         "address":"Harare ST 12"
+      }
+   },
+   {
+      "code":"BONDS_REGISTRATION",
+      "service":"Bonds registration",
+      "ownerNames":"Daniel Nsanzumuhire",
+      "lastName":"Daniel",
+      "deedId":"56 345678 A12",
+      "phoneNumber":"+263 (024) 2453788",
+      "paymentStatus":"PAID",
+      "status":"REJECTED",
+      "data":{
+         "bondType":"Mortgage",
+         "mortgagee":"Nsanzumuhire Daniel",
+         "mortgagor":"Alex Denis",
+         "lawyerNames":"Laywer 3",
+         "lawyerEmail":"lawyer@gmail.com",
+         "amount":"$40,000",
+         "lawyerPhoneNumber":"078345556433"
+      }
+   }
+]
   },
   "conveyancer@gmail.com": {
     "status": true,
