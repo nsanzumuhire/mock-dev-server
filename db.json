@@ -3,26 +3,29 @@
     "status": true,
     "data": [
       {
-        "upi": "01/01/1/234",
-        "sqfeet": "454sq",
+        "deedId": "12 345678 A00",
+        "description": "STAND 203 SEKI TOWNSHIP",
         "location": "Zimbabwe",
         "names": "Daniel Nsanzumuhire",
-        "dob": "1994-07-19T18:46:28.999Z"
+        "dateOfBirth": "1994-07-19T18:46:28.999Z",
+        "status": "CURRENT OWNER"
       },
       {
-        "upi": "01/01/1/34",
-        "sqfeet": "454sq",
+        "deedId": "12 345678 A23",
+        "description": "STAND 7389 SEKI TOWNSHIP",
         "location": "Zimbabwe",
         "names": "Daniel Flex",
-        "dob": "1994-07-19T18:46:28.999Z"
+        "dateOfBirth": "1994-07-19T18:46:28.999Z",
+        "status": "CURRENT OWNER"
       },
       {
-        "upi": "01/01/1/09",
-        "sqfeet": "454sq",
+        "deedId": "65 345678 A23",
+        "description": "STAND 2897 BUDIRIRO TOWNSHIP OF WILLOWVALE ESTATE",
         "location": "Zimbabwe",
-        "names": "Daniel Nsanzumuhire",
-        "dob": "1994-07-19T18:46:28.999Z"
-      }
+        "names": "Daniel Flex",
+        "dateOfBirth": "1994-07-19T18:46:28.999Z",
+        "status": "CURRENT OWNER"
+      },
     ]
   },
   "examinar@gmail.com": {
