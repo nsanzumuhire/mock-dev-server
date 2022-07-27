@@ -113,7 +113,7 @@
       "deedId":"56 345678 A12",
       "phoneNumber":"+263 (024) 2453788",
       "paymentStatus":"PAID",
-      "status":"REJECTED",
+      "status":"RFA",
       "data":{
          "bondType":"Mortgage",
          "mortgagee":"Nsanzumuhire Daniel",
